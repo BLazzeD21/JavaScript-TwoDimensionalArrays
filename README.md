@@ -1,1 +1,1 @@
-# JavaScript Two Dimensional Arrays
+# JavaScript two dimensional arrays
